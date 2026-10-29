@@ -1,0 +1,17 @@
+data,hora,id,categoria,titulo
+2026-10-28,15:00,c01,ciência,Por que o mar é salgado e os rios não?
+2026-10-29,15:00,c02,ciência,A luz do Sol que chega hoje começou a viagem há milhares de anos
+2026-10-30,12:00,m01,mistério,"Webdriver Torso, parte 1: o canal que ninguém entendia"
+2026-10-30,15:00,c03,ciência,Por que a gente sempre vê o mesmo lado da Lua?
+2026-10-31,12:00,m02,mistério,"Webdriver Torso, parte 2: a resposta"
+2026-10-31,15:00,c04,ciência,O que acontece se você cair num buraco negro?
+2026-11-01,12:00,m03,mistério,"John Titor, parte 1: o soldado de 2036"
+2026-11-01,15:00,c05,ciência,O GPS só funciona porque Einstein estava certo
+2026-11-01,19:00,t01,tecnologia,Por que um QR code funciona mesmo rasgado?
+2026-11-02,12:00,m04,mistério,"John Titor, parte 2: o que aconteceu com ele"
+2026-11-02,15:00,c06,ciência,Por que o gelo boia?
+2026-11-03,12:00,m05,mistério,"Cicada 3301, parte 1: o enigma"
+2026-11-03,19:00,t02,tecnologia,Por que a bateria do celular perde capacidade?
+2026-11-04,12:00,m06,mistério,"Cicada 3301, parte 2: o livro que ninguém leu"
+2026-11-05,12:00,m07,mistério,"Max Headroom, parte 1: a primeira invasão"
+2026-11-06,12:00,m08,mistério,"Max Headroom, parte 2: a segunda invasão"
