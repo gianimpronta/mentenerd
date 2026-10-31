@@ -15,7 +15,7 @@ Plano aprovado em 2026-10-31. Mix: mais ciência e mistério (14 + 14) e tecnolo
 | 14/11 | ILOVEBEES, o site que virou jogo de Halo 2 | proposto |
 | 15/11 | SCP FOUNDATION, como nasceu no 4chan | proposto |
 | 16/11 | PETSCOP, a série de YouTube que ninguém entendia | proposto |
-| 17/11 | SINAL WOW, 72 segundos vindos do espaço (1977) | proposto; fora da internet |
+| 17/11 | TEORIA DA INTERNET MORTA, a ideia de que a rede já é só bot | proposto (substitui Sinal Wow, que já existe no canal desde 2023) |
 | 18/11 | APHEX TWIN, o rosto escondido na música | proposto |
 | 19/11 | MANUSCRITO VOYNICH, o livro que ninguém lê | proposto; fora da internet |
 | 20/11 | CANDLE COVE, o programa infantil que ninguém lembra | proposto |
