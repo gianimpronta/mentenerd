@@ -38,3 +38,17 @@ Atualizado em 2026-10-29. Meta: 3 vídeos/dia (mistério 12:00, ciência 15:00, 
 - Fotos reais em tela cheia entre as cenas, mais motion graphics; créditos CC nas descrições.
 
 `meta.json` tem título, descrição, data e hora de cada vídeo.
+
+## Insights de desempenho (2026-10-31)
+
+Base: lista de Shorts do Studio e Analytics, 24–31/out. Poucos dias de dados; reavaliar depois.
+
+- Views médias por categoria: ciência ~1.800, mistério ~1.430, tecnologia ~700. Origem: ~93% feed de Shorts.
+- Ciência "Por que...": formato mais estável (1,1–1,8 mil views; retenção 62–76%). Manter.
+- Mistério com nome próprio pesquisável: Webdriver Torso parte 1 foi o maior (3,2 mil views; ~55% das buscas por "webdriver torso"; +10 inscritos). Prioridade para temas com nome conhecido.
+- Parte do meio de série perde público: Erratas parte 2 teve 213 views. Séries novas ficam em 2 partes.
+- Duração: ~30–35 s retém mais em % (72–76%) que 45–50 s (62–66%); 16 s é curto demais (52,7%). Em ciência/tecnologia, tentar enxugar perto de 35 s; mistério pode ficar ~45 s.
+- Tecnologia: prático/histórico funciona (Discord spoiler 1,3 mil, aba anônima 1,4 mil, primeiro bug 1 mil); conceitual não (0 e 1: 119).
+- Inscritos: conversão baixa (0,1–0,3% das views). Sem CTA, por regra do canal.
+- Sem dados para comparar voz, cores e música (iguais em todos); Studio não mostra retenção segundo a segundo neste canal.
+- Possível teste futuro: variar só uma coisa (voz ou paleta) em dois temas parecidos e comparar após 48 h.
