@@ -33,6 +33,7 @@ Atualizado em 2026-10-29. Meta: 3 vídeos/dia (mistério 12:00, ciência 15:00, 
 
 ## Regras do canal
 
+- Títulos: primeiras palavras-chave em MAIÚSCULAS (desde 31/10/2026).
 - Sem CTA no final dos vídeos; fala ~10% mais rápida (atempo 1.1).
 - Estilo Kurzgesagt (formas chapadas, personagens com olhos, fundo diferente por vídeo), sem selo "Mente Nerd" no topo.
 - Fotos reais em tela cheia entre as cenas, mais motion graphics; créditos CC nas descrições.
@@ -52,3 +53,12 @@ Base: lista de Shorts do Studio e Analytics, 24–31/out. Poucos dias de dados; 
 - Inscritos: conversão baixa (0,1–0,3% das views). Sem CTA, por regra do canal.
 - Sem dados para comparar voz, cores e música (iguais em todos); Studio não mostra retenção segundo a segundo neste canal.
 - Possível teste futuro: variar só uma coisa (voz ou paleta) em dois temas parecidos e comparar após 48 h.
+
+## Mudança de títulos (2026-10-31)
+
+Em 31/10/2026, por volta das 12h30, os títulos dos Shorts passaram a ter as primeiras palavras-chave em MAIÚSCULAS (as primeiras palavras são as mais importantes). Exemplos: "POR QUE O GELO boia?", "WEBDRIVER TORSO, parte 2: a resposta". Palavras de impacto que já estavam em maiúsculas foram mantidas (NÃO, DISSO, AGORA, DE VERDADE, ESCONDIDOS).
+
+- Alterados no Studio: os 14 agendados e 20 já publicados (de 23 a 30/out). Os Shorts anteriores a 23/10 não foram alterados.
+- `meta.json` e `cronograma.csv` já refletem os títulos novos. A lista de agendados do `PROGRESS.md` ainda mostra os títulos antigos.
+- Linha de base para comparar: `desempenho/2026-10-31_1144.csv` (views antes da mudança, com o título antigo de cada vídeo). Para avaliar o efeito, tirar novo retrato depois de ~48 h e comparar apenas vídeos de mesma categoria.
+- Regra para os próximos títulos: primeiras palavras-chave em maiúsculas; sem CTA.
