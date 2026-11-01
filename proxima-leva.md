@@ -1,4 +1,4 @@
-# Próxima leva: 07 a 20/11/2026 (35 Shorts)
+# Próxima leva: 07 a 30/11/2026 (60 Shorts)
 
 Plano aprovado em 2026-10-31. Mix: mais ciência e mistério (14 + 14) e tecnologia a cada dois dias (7). Mistério 12:00, ciência 15:00, tecnologia 19:00. Sem CTA; primeiras palavras-chave do título em MAIÚSCULAS.
 
@@ -31,3 +31,27 @@ Os mistérios já agendados em duas partes (John Titor, Cicada 3301, Max Headroo
 ## Etapas
 1. Roteiros em lotes, com fatos conferidos em fontes (links no fim de cada lote) e revisão do Gian antes de produzir.
 2. Narração (ElevenLabs), vídeos (HyperFrames), compressão e agendamento no Studio.
+
+## Extensão 21 a 30/11 (proposta de 2026-10-31, aguardando aprovação)
+
+Mix mantido: mistério e ciência todo dia, tecnologia em dias alternados (21, 23, 25, 27, 29). Mistério em vídeo único de 1 a 3 minutos. Temas conferidos contra a lista de 2023 do canal (sem repetição); fatos serão conferidos em fontes ao escrever cada roteiro.
+
+### Mistério (12:00)
+| Data | Caso |
+|---|---|
+| 21/11 | HEROBRINE, o personagem que nunca existiu em Minecraft |
+| 22/11 | ATARI E.T., os cartuchos enterrados no deserto |
+| 23/11 | MISSINGNO, o glitch que bagunçou Pokémon |
+| 24/11 | BILL CIPHER, a caça ao tesouro de Gravity Falls |
+| 25/11 | TIME CUBE, o site mais estranho da internet |
+| 26/11 | BICHOLIM, o conflito inventado que ficou anos na Wikipedia |
+| 27/11 | NOTPRON, o site de enigmas mais difícil da internet |
+| 28/11 | O EPISÓDIO de Pokémon que parou o Japão (1997) |
+| 29/11 | SLENDER MAN, a origem de uma lenda criada num fórum (só a criação; sem o caso criminal de 2014, a decidir) |
+| 30/11 | BLISS, a foto mais vista do mundo (o fundo do Windows XP) |
+
+### Ciência (15:00)
+21 O CHEIRO DA CHUVA tem nome · 22 POR QUE EXISTEM estações do ano (não é distância do Sol) · 23 POR QUE A AURORA boreal brilha · 24 POR QUE A CEBOLA faz chorar · 25 POR QUE A BOLA de golfe tem covinhas · 26 POR QUE OS GATOS ronronam · 27 POR QUE O SOL parece amarelo, se é branco · 28 POR QUE A LUA tem fases · 29 POR QUE A GENTE sente arrepio · 30 POR QUE O PÃO cresce
+
+### Tecnologia (19:00)
+21 O BUG do ano 2000 (Y2K) · 23 COMO ATIVAR a verificação em duas etapas · 25 A HISTÓRIA do CAPTCHA · 27 COMO ACHAR o celular perdido · 29 O PRIMEIRO SITE do mundo
