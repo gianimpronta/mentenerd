@@ -21,3 +21,13 @@ Um arquivo por roteiro: `AAAA-MM-DD_HHMM_categoria_tema.md`.
 | 11/11 | 19:00 | tecnologia | [COMO SABER se sua senha vazou](2026-11-11_1900_tecnologia_senha-vazou.md) | 145 |
 | 12/11 | 12:00 | mistério | [BEN DROWNED: o cartucho de Zelda "assombrado"](2026-11-12_1200_misterio_ben-drowned.md) | 214 |
 | 12/11 | 15:00 | ciência | [POR QUE AS ESTRELAS piscam?](2026-11-12_1500_ciencia_estrelas-piscam.md) | 155 |
+| 13/11 | 12:00 | mistério | [KRYPTOS: o enigma da CIA que ninguém decifrou](2026-11-13_1200_misterio_kryptos.md) | 231 |
+| 13/11 | 15:00 | ciência | [POR QUE O ESPAÇO é escuro se há tantas estrelas?](2026-11-13_1500_ciencia_espaco-escuro.md) | 160 |
+| 13/11 | 19:00 | tecnologia | [O VÍRUS ILOVEYOU: o e-mail que parou o mundo em 2000](2026-11-13_1900_tecnologia_iloveyou.md) | 196 |
+| 14/11 | 12:00 | mistério | [ILOVEBEES: o site de mel "hackeado" por uma IA](2026-11-14_1200_misterio_ilovebees.md) | 227 |
+| 14/11 | 15:00 | ciência | [POR QUE O DEDO enruga na água?](2026-11-14_1500_ciencia_dedo-enruga.md) | 186 |
+| 15/11 | 12:00 | mistério | [SCP FOUNDATION: o arquivo secreto que nasceu no 4chan](2026-11-15_1200_misterio_scp-foundation.md) | 224 |
+| 15/11 | 15:00 | ciência | [POR QUE A GENTE boceja quando vê alguém bocejar?](2026-11-15_1500_ciencia_bocejo.md) | 167 |
+| 15/11 | 19:00 | tecnologia | [A HISTÓRIA do Ctrl+Alt+Del](2026-11-15_1900_tecnologia_ctrl-alt-del.md) | 185 |
+| 16/11 | 12:00 | mistério | [PETSCOP: o jogo perdido que nunca existiu](2026-11-16_1200_misterio_petscop.md) | 222 |
+| 16/11 | 15:00 | ciência | [POR QUE O MICRO-ONDAS esquenta a comida?](2026-11-16_1500_ciencia_micro-ondas.md) | 172 |
