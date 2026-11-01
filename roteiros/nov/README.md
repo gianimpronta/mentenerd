@@ -41,3 +41,28 @@ Um arquivo por roteiro: `AAAA-MM-DD_HHMM_categoria_tema.md`.
 | 19/11 | 19:00 | tecnologia | [POR QUE SEU CELULAR esquenta, e o que fazer](2026-11-19_1900_tecnologia_celular-esquenta.md) | 160 |
 | 20/11 | 12:00 | mistério | [CANDLE COVE: o programa infantil que ninguém viu](2026-11-20_1200_misterio_candle-cove.md) | 220 |
 | 20/11 | 15:00 | ciência | [POR QUE O GELO SECO "fuma"?](2026-11-20_1500_ciencia_gelo-seco.md) | 169 |
+| 21/11 | 12:00 | mistério | [HEROBRINE: o personagem de Minecraft que nunca existiu](2026-11-21_1200_misterio_herobrine.md) | 232 |
+| 21/11 | 15:00 | ciência | [O CHEIRO DA CHUVA tem nome](2026-11-21_1500_ciencia_cheiro-da-chuva.md) | 172 |
+| 21/11 | 19:00 | tecnologia | [O BUG do ano 2000](2026-11-21_1900_tecnologia_bug-do-milenio.md) | 196 |
+| 22/11 | 12:00 | mistério | [ATARI E.T.: os cartuchos enterrados no deserto](2026-11-22_1200_misterio_atari-et-enterrado.md) | 239 |
+| 22/11 | 15:00 | ciência | [POR QUE EXISTEM estações do ano?](2026-11-22_1500_ciencia_estacoes-do-ano.md) | 209 |
+| 23/11 | 12:00 | mistério | [MISSINGNO: o Pokémon que não deveria existir](2026-11-23_1200_misterio_missingno.md) | 241 |
+| 23/11 | 15:00 | ciência | [POR QUE A AURORA boreal brilha?](2026-11-23_1500_ciencia_aurora-boreal.md) | 178 |
+| 23/11 | 19:00 | tecnologia | [COMO ATIVAR a verificação em duas etapas](2026-11-23_1900_tecnologia_verificacao-duas-etapas.md) | 196 |
+| 24/11 | 12:00 | mistério | [BILL CIPHER: a caça ao tesouro de Gravity Falls](2026-11-24_1200_misterio_caca-ao-tesouro-gravity-falls.md) | 213 |
+| 24/11 | 15:00 | ciência | [POR QUE A CEBOLA faz chorar?](2026-11-24_1500_ciencia_cebola-faz-chorar.md) | 165 |
+| 25/11 | 12:00 | mistério | [TIME CUBE: o site que jurava que um dia tem quatro dias](2026-11-25_1200_misterio_time-cube.md) | 209 |
+| 25/11 | 15:00 | ciência | [POR QUE A BOLA de golfe tem covinhas?](2026-11-25_1500_ciencia_bola-de-golfe.md) | 173 |
+| 25/11 | 19:00 | tecnologia | [A HISTÓRIA do CAPTCHA](2026-11-25_1900_tecnologia_historia-do-captcha.md) | 207 |
+| 26/11 | 12:00 | mistério | [BICHOLIM: a guerra inventada que enganou a Wikipedia](2026-11-26_1200_misterio_conflito-de-bicholim.md) | 196 |
+| 26/11 | 15:00 | ciência | [POR QUE OS GATOS ronronam?](2026-11-26_1500_ciencia_gato-ronrona.md) | 163 |
+| 27/11 | 12:00 | mistério | [NOTPRON: o enigma mais difícil da internet](2026-11-27_1200_misterio_notpron.md) | 170 |
+| 27/11 | 15:00 | ciência | [POR QUE O SOL parece amarelo, se é branco?](2026-11-27_1500_ciencia_sol-branco.md) | 195 |
+| 27/11 | 19:00 | tecnologia | [COMO ACHAR o celular perdido](2026-11-27_1900_tecnologia_achar-celular-perdido.md) | 175 |
+| 28/11 | 12:00 | mistério | [O EPISÓDIO de Pokémon que mandou centenas ao hospital](2026-11-28_1200_misterio_episodio-pokemon-1997.md) | 220 |
+| 28/11 | 15:00 | ciência | [POR QUE A LUA tem fases?](2026-11-28_1500_ciencia_fases-da-lua.md) | 202 |
+| 29/11 | 12:00 | mistério | [SLENDER MAN: a lenda que nasceu num concurso de fórum](2026-11-29_1200_misterio_slender-man.md) | 190 |
+| 29/11 | 15:00 | ciência | [POR QUE A GENTE sente arrepio?](2026-11-29_1500_ciencia_arrepio.md) | 170 |
+| 29/11 | 19:00 | tecnologia | [O PRIMEIRO SITE do mundo](2026-11-29_1900_tecnologia_primeiro-site.md) | 192 |
+| 30/11 | 12:00 | mistério | [BLISS: a história da foto do Windows XP](2026-11-30_1200_misterio_bliss-windows-xp.md) | 208 |
+| 30/11 | 15:00 | ciência | [POR QUE O PÃO cresce?](2026-11-30_1500_ciencia_pao-cresce.md) | 169 |

@@ -32,7 +32,7 @@ Os mistérios já agendados em duas partes (John Titor, Cicada 3301, Max Headroo
 1. Roteiros em lotes, um arquivo por roteiro em `roteiros/nov/`, com fontes em cada arquivo e revisão do Gian antes de produzir.
 2. Narração (ElevenLabs), vídeos (HyperFrames), compressão e agendamento no Studio.
 
-## Extensão 21 a 30/11 (proposta de 2026-10-31, aguardando aprovação)
+## Extensão 21 a 30/11 (aprovada em 2026-11-01; roteiros em `roteiros/nov/`)
 
 Mix mantido: mistério e ciência todo dia, tecnologia em dias alternados (21, 23, 25, 27, 29). Mistério em vídeo único de 1 a 3 minutos. Temas conferidos contra a lista de 2023 do canal (sem repetição); fatos serão conferidos em fontes ao escrever cada roteiro.
 
@@ -47,7 +47,7 @@ Mix mantido: mistério e ciência todo dia, tecnologia em dias alternados (21, 2
 | 26/11 | BICHOLIM, o conflito inventado que ficou anos na Wikipedia |
 | 27/11 | NOTPRON, o site de enigmas mais difícil da internet |
 | 28/11 | O EPISÓDIO de Pokémon que parou o Japão (1997) |
-| 29/11 | SLENDER MAN, a origem de uma lenda criada num fórum (só a criação; sem o caso criminal de 2014, a decidir) |
+| 29/11 | SLENDER MAN, a origem de uma lenda criada num fórum (roteiro só com a criação; caso de 2014 fora, confirmar) |
 | 30/11 | BLISS, a foto mais vista do mundo (o fundo do Windows XP) |
 
 ### Ciência (15:00)
