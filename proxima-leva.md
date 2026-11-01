@@ -29,7 +29,7 @@ Os mistérios já agendados em duas partes (John Titor, Cicada 3301, Max Headroo
 07 COMO VER quem está conectado no seu Wi-Fi · 09 O PRIMEIRO E-MAIL: quem enviou e o que dizia · 11 COMO SABER se sua senha vazou · 13 O VÍRUS ILOVEYOU: o e-mail que parou o mundo em 2000 · 15 A HISTÓRIA do Ctrl+Alt+Del · 17 COMO LIBERAR espaço no WhatsApp sem apagar conversas · 19 POR QUE SEU CELULAR esquenta, e o que fazer
 
 ## Etapas
-1. Roteiros em lotes, com fatos conferidos em fontes (links no fim de cada lote) e revisão do Gian antes de produzir.
+1. Roteiros em lotes, um arquivo por roteiro em `roteiros/nov/`, com fontes em cada arquivo e revisão do Gian antes de produzir.
 2. Narração (ElevenLabs), vídeos (HyperFrames), compressão e agendamento no Studio.
 
 ## Extensão 21 a 30/11 (proposta de 2026-10-31, aguardando aprovação)
