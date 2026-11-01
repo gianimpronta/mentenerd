@@ -31,3 +31,13 @@ Um arquivo por roteiro: `AAAA-MM-DD_HHMM_categoria_tema.md`.
 | 15/11 | 19:00 | tecnologia | [A HISTÓRIA do Ctrl+Alt+Del](2026-11-15_1900_tecnologia_ctrl-alt-del.md) | 185 |
 | 16/11 | 12:00 | mistério | [PETSCOP: o jogo perdido que nunca existiu](2026-11-16_1200_misterio_petscop.md) | 222 |
 | 16/11 | 15:00 | ciência | [POR QUE O MICRO-ONDAS esquenta a comida?](2026-11-16_1500_ciencia_micro-ondas.md) | 172 |
+| 17/11 | 12:00 | mistério | [TEORIA DA INTERNET MORTA: e se a rede já for só robô?](2026-11-17_1200_misterio_internet-morta.md) | 272 |
+| 17/11 | 15:00 | ciência | [POR QUE O SAL derrete o gelo?](2026-11-17_1500_ciencia_sal-derrete-gelo.md) | 185 |
+| 17/11 | 19:00 | tecnologia | [COMO LIBERAR espaço no WhatsApp sem apagar conversas](2026-11-17_1900_tecnologia_espaco-whatsapp.md) | 131 |
+| 18/11 | 12:00 | mistério | [APHEX TWIN: o rosto escondido dentro da música](2026-11-18_1200_misterio_aphex-twin-rosto.md) | 206 |
+| 18/11 | 15:00 | ciência | [O PÔR DO SOL em Marte é azul](2026-11-18_1500_ciencia_por-do-sol-marte.md) | 179 |
+| 19/11 | 12:00 | mistério | [MANUSCRITO VOYNICH: o livro que ninguém consegue ler](2026-11-19_1200_misterio_manuscrito-voynich.md) | 225 |
+| 19/11 | 15:00 | ciência | [POR QUE O ARCO-ÍRIS é um círculo?](2026-11-19_1500_ciencia_arco-iris-circulo.md) | 204 |
+| 19/11 | 19:00 | tecnologia | [POR QUE SEU CELULAR esquenta, e o que fazer](2026-11-19_1900_tecnologia_celular-esquenta.md) | 160 |
+| 20/11 | 12:00 | mistério | [CANDLE COVE: o programa infantil que ninguém viu](2026-11-20_1200_misterio_candle-cove.md) | 220 |
+| 20/11 | 15:00 | ciência | [POR QUE O GELO SECO "fuma"?](2026-11-20_1500_ciencia_gelo-seco.md) | 169 |
