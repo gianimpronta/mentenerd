@@ -66,3 +66,10 @@ Em 31/10/2026, por volta das 12h30, os títulos dos Shorts passaram a ter as pri
 - `meta.json` e `cronograma.csv` já refletem os títulos novos. A lista de agendados do `PROGRESS.md` ainda mostra os títulos antigos.
 - Linha de base para comparar: `desempenho/2026-10-31_1144.csv` (views antes da mudança, com o título antigo de cada vídeo). Para avaliar o efeito, tirar novo retrato depois de ~48 h e comparar apenas vídeos de mesma categoria.
 - Regra para os próximos títulos: primeiras palavras-chave em maiúsculas; sem CTA.
+
+## Produção de novembro (vídeo único para mistério)
+
+- Voz: André - Voz Animada & Confiante (ElevenLabs, modelo eleven_v4, voice_id zxk5LWW71eFBR9Cep81P), fala acelerada 10% (atempo 1.1).
+- Arquivos: `videos/n07*.mp4` (comprimidos para envio), `audio/originais` e `audio/rapido` (com tempos por palavra), `src/spec_n07*.py`, `meta_nov.json` (título, descrição, créditos).
+- Agendados em 2026-11-02 (conferido na lista do Studio): 07/11 12:00 UVB-76 · 07/11 15:00 Terra girando · 07/11 19:00 quem está no seu Wi-Fi.
+- O Chrome abre o Studio no canal pessoal: antes de enviar, trocar para o canal Mente Nerd no menu da conta.
