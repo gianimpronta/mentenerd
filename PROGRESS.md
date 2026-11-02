@@ -69,6 +69,7 @@ Em 31/10/2026, por volta das 12h30, os títulos dos Shorts passaram a ter as pri
 
 ## Produção de novembro (vídeo único para mistério)
 
+- Narração: gerar só UMA versão por roteiro (generations_count=1), para não gastar crédito à toa (decisão de 02/11/2026).
 - Voz: André - Voz Animada & Confiante (ElevenLabs, modelo eleven_v4, voice_id zxk5LWW71eFBR9Cep81P), fala acelerada 10% (atempo 1.1).
 - Arquivos: `videos/n07*.mp4` (comprimidos para envio), `audio/originais` e `audio/rapido` (com tempos por palavra), `src/spec_n07*.py`, `meta_nov.json` (título, descrição, créditos).
 - Agendados em 2026-11-02 (conferido na lista do Studio): 07/11 12:00 UVB-76 · 07/11 15:00 Terra girando · 07/11 19:00 quem está no seu Wi-Fi.
