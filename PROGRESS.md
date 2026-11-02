@@ -75,3 +75,20 @@ Em 31/10/2026, por volta das 12h30, os títulos dos Shorts passaram a ter as pri
 - Arquivos: `videos/n07*.mp4` (comprimidos para envio), `audio/originais` e `audio/rapido` (com tempos por palavra), `src/spec_n07*.py`, `meta_nov.json` (título, descrição, créditos).
 - Agendados em 2026-11-02 (conferido na lista do Studio): 07/11 12:00 UVB-76 · 07/11 15:00 Terra girando · 07/11 19:00 quem está no seu Wi-Fi.
 - O Chrome abre o Studio no canal pessoal: antes de enviar, trocar para o canal Mente Nerd no menu da conta.
+
+## Substituição por áudio normalizado (2026-11-02)
+Os vídeos de 03 a 07/11 foram reenviados com o áudio passado em `src/lufs.sh` (−14 LUFS, pico ≤ −1,5 dBTP). As versões antigas foram colocadas em **Privado**, o que cancelou o agendamento. O Gianpaolo vai excluí-las manualmente.
+
+| Chave | Data | Novo ID | ID antigo (privado, excluir) |
+|---|---|---|---|
+| m05 | 03/11 12:00 | DL9VPV4OO_Y | a_g2i4whZRU |
+| t02 | 03/11 19:00 | I-KIDDDw7lk | g_3xOP3YFUw |
+| m06 | 04/11 12:00 | _xdLiQS21Fo | huVyB_mVN0A |
+| m07 | 05/11 12:00 | 3ZNsEU1lW5w | RdwcjxtRo1c |
+| m08 | 06/11 12:00 | _MlJChRLNF0 | 6CnifoWZi7U |
+| n07m | 07/11 12:00 | o33ajFYGQCY | JtEInj2xaiA |
+| n07c | 07/11 15:00 | z0XIT7d2HEE | _T_AlSx1QKY |
+| n07t | 07/11 19:00 | q3aF_uaKE18 | _DZ-VRhxyxg |
+
+Os vídeos de 02/11 (gelo e Discord) ficaram com o áudio original.
+Dica de upload: no Studio, o campo de hora às vezes volta para 00:00. Confira o valor do input por JS antes de clicar em "Programar".
