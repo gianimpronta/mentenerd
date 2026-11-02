@@ -22,4 +22,4 @@
 
 - A fonte diz que a foto foi tirada no sul do condado de Sonoma, perto da divisa com Napa; câmera Mamiya RZ67 e filme Fujifilm Velvia. O valor pago foi noticiado como "na casa das centenas de milhares de dólares", mas é confidencial.
 - "Possivelmente a foto mais vista da história" é uma estimativa citada pela fonte (o próprio fotógrafo chama a conta de "palpite"); por isso o gancho diz "pode ser".
-- A foto pertence à Microsoft: não usar a imagem original.
+- Imagens: pode usar o material original (capturas, fotos, logos, personagens) sob fair use, decisão do Gian em 02/11/2026; creditar a fonte na descrição.

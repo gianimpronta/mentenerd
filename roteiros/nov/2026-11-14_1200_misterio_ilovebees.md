@@ -21,4 +21,4 @@ pote de mel com carta; site de apicultura com letras embaralhadas e "glitch"; IA
 ## Pontos a confirmar
 
 - A Wikipedia não diz quantos orelhões foram usados; o roteiro fala das 210 coordenadas. Criado pela 42 Entertainment, encomendado pela Microsoft para Halo 2 (da Bungie).
-- Não usar imagens oficiais de Halo (direitos); só elementos genéricos.
+- Imagens: pode usar o material original (capturas, fotos, logos, personagens) sob fair use, decisão do Gian em 02/11/2026; creditar a fonte na descrição.

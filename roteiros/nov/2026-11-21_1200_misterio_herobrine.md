@@ -22,4 +22,4 @@
 
 - A postagem original foi no quadro /v/ do 4chan (fonte). Os streamers citados na fonte (Copeland e Patimuss) não são nomeados no roteiro.
 - Guinness: 46º lugar numa votação de 2013 dos 50 maiores vilões de videogame. Semente encontrada pelo projeto Minecraft@Home em janeiro de 2021; transmissão original enviada ao YouTube em julho de 2024.
-- Não usar a skin oficial do Steve nem logotipos de Minecraft (direitos); só cenário de blocos genérico.
+- Imagens: pode usar o material original (capturas, fotos, logos, personagens) sob fair use, decisão do Gian em 02/11/2026; creditar a fonte na descrição.

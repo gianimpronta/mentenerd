@@ -21,4 +21,4 @@ cartucho cinza genérico com etiqueta escrita à mão "BEN"; TV de tubo com est�
 ## Pontos a confirmar
 
 - A Wikipedia confirma 2010, 4chan e YouTube, o cartucho de venda de garagem e o site "youshouldnthavedonethat.net". Não traz o mês exato.
-- Não usar imagens do jogo Majora's Mask nem do personagem (direitos); só cartucho genérico.
+- Imagens: pode usar o material original (capturas, fotos, logos, personagens) sob fair use, decisão do Gian em 02/11/2026; creditar a fonte na descrição.

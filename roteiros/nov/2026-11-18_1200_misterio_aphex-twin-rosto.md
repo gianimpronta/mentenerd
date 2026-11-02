@@ -22,4 +22,4 @@
 
 - A Wikipedia diz que o MetaSynth gerou a espiral do final de "Windowlicker", mas não afirma como o rosto foi feito; o roteiro não atribui o rosto a um programa.
 - A fonte não dá a data da descoberta; o roteiro cita só a reportagem da Wired de 10/05/2002 (Leander Kahney).
-- Não reproduzir o espectrograma real nem a capa do single (direitos); usar recriação genérica.
+- Imagens: pode usar o material original (capturas, fotos, logos, personagens) sob fair use, decisão do Gian em 02/11/2026; creditar a fonte na descrição.

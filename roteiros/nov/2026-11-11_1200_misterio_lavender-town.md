@@ -21,5 +21,5 @@ cidadezinha roxa em pixel art estilizado (sem personagens oficiais); torre com l
 ## Pontos a confirmar
 
 - Tema sensível: a lenda original fala em suicídio de crianças. O roteiro generaliza para "doentes, e até morrido" e desmente logo depois, sem detalhes. Confirmar se o Gian prefere tirar a menção a mortes.
-- Não usar sprites ou personagens oficiais de Pokémon no visual (direitos); só ambientação genérica.
+- Imagens: pode usar o material original (capturas, fotos, logos, personagens) sob fair use, decisão do Gian em 02/11/2026; creditar a fonte na descrição.
 - A Wikipedia não traz o ano exato nem o site de origem da lenda ("início dos anos 2010", espalhada pelo 4chan, entre outros).

@@ -22,4 +22,4 @@
 
 - Tema sensível: o roteiro não reproduz a cena e o visual não pode ter luzes piscando (risco real para pessoas fotossensíveis).
 - Números da fonte: 685 levados a hospitais, 208 internados, 2 por mais de duas semanas; piscadas de 12 Hz por 4 segundos. A fonte nota que algumas citações falam em mais de 150 internações; o roteiro usa 208, que aparece no texto.
-- Estudo de 2001 de Radford e Bartholomew (hipótese de doença psicogênica coletiva). Não usar imagens do desenho nem do personagem (direitos); o nome Porygon é citado só em texto.
+- Imagens: pode usar o material original (capturas, fotos, logos, personagens) sob fair use, decisão do Gian em 02/11/2026; creditar a fonte na descrição.

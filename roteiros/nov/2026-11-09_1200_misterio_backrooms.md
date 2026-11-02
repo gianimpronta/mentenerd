@@ -20,5 +20,5 @@ sala amarela recriada no estilo do canal (não usar a foto original sem checar d
 
 ## Pontos a confirmar
 
-- A foto original não tem autor identificado; usar recriação visual em vez da foto, até confirmar os direitos.
+- Imagens: pode usar o material original (capturas, fotos, logos, personagens) sob fair use, decisão do Gian em 02/11/2026; creditar a fonte na descrição.
 - Views do curta: "mais de 90 milhões em agosto de 2026", segundo a Wikipedia. Filme: estreia nos EUA em 29/05/2026.

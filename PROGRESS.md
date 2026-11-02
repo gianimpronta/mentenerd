@@ -37,6 +37,7 @@ Atualizado em 2026-10-29. Meta: 3 vídeos/dia (mistério 12:00, ciência 15:00, 
 - Gancho: a primeira frase (cerca de 2 segundos) precisa ser forte e gerar curiosidade (desde 31/10/2026).
 - Mistérios em vídeo único, de 1 a 3 minutos, sem partes (desde 31/10/2026; os já agendados em 2 partes ficam como estão).
 - Roteiros: um arquivo por roteiro em `roteiros/nov/`.
+- Imagens: material original (capturas, fotos, logos, personagens) liberado sob fair use, com crédito na descrição (decisão de 02/11/2026).
 - Sem CTA no final dos vídeos; fala ~10% mais rápida (atempo 1.1).
 - Estilo Kurzgesagt (formas chapadas, personagens com olhos, fundo diferente por vídeo), sem selo "Mente Nerd" no topo.
 - Fotos reais em tela cheia entre as cenas, mais motion graphics; créditos CC nas descrições.

@@ -21,4 +21,4 @@
 ## Pontos a confirmar
 
 - Fonte: entre 10 e 20 caminhões; a Atari falou em material "inoperável". Atari estimou cerca de 700 mil cartuchos; o gerente responsável pelo enterro (James Heller) falou em 728 mil. Documentário: "Atari: Game Over".
-- Não usar a capa nem imagens do jogo E.T. (direitos); cartuchos genéricos.
+- Imagens: pode usar o material original (capturas, fotos, logos, personagens) sob fair use, decisão do Gian em 02/11/2026; creditar a fonte na descrição.

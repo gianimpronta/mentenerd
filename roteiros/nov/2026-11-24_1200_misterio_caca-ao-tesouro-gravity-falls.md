@@ -21,4 +21,4 @@
 ## Pontos a confirmar
 
 - Caçada de 20/07 a 03/08/2016; estátua achada em Reedsport (Oregon); depois levada para Confusion Hill, em Piercy (Califórnia). A fonte não traz o número de pistas.
-- Bill Cipher é personagem da Disney: não desenhar o personagem nem usar imagens da série (direitos); mostrar a estátua coberta ou em silhueta genérica.
+- Imagens: pode usar o material original (capturas, fotos, logos, personagens) sob fair use, decisão do Gian em 02/11/2026; creditar a fonte na descrição.

@@ -23,4 +23,4 @@ console genérico com disco sem etiqueta; tela de jogo fofo em cores pastel que 
 - Série de 12/03/2017 a 02/09/2019, 24 episódios (fonte). A data exata da revelação do criador não está na fonte ("depois do final").
 - A New Yorker chamou de "the king of creepypasta"; o roteiro traduz "creepypasta" como "histórias de terror da internet". Mais de 396 mil inscritos em julho de 2023. Exibição no Spectacle Theater, no Brooklyn, em 12/10/2024.
 - Temas pesados da série (abuso infantil, terapia de "renascimento") ficaram de fora de propósito; o roteiro diz só "criança desaparecida e segredos de uma família".
-- Não usar imagens do Petscop nem logotipos de PlayStation; só console genérico.
+- Imagens: pode usar o material original (capturas, fotos, logos, personagens) sob fair use, decisão do Gian em 02/11/2026; creditar a fonte na descrição.

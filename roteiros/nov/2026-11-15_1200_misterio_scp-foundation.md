@@ -21,5 +21,4 @@ estátua estilizada original (não a escultura real) com olhos fechando e abrind
 ## Pontos a confirmar
 
 - Números da página atualizada em julho de 2026: mais de 10.400 artigos de objetos e mais de 6.300 "Foundation Tales". Licença Creative Commons BY-SA 3.0.
-- A foto original do SCP-173 é a obra "Untitled 2004", de Izumi Katō; não usar no vídeo. O autor do post original não é nomeado no roteiro.
-- O logo da Fundação SCP é CC BY-SA; preferir evitar e usar símbolo genérico.
+- Imagens: pode usar o material original (capturas, fotos, logos, personagens) sob fair use, decisão do Gian em 02/11/2026; creditar a fonte na descrição.

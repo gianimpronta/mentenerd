@@ -22,4 +22,4 @@
 
 - O alquimista é Georg Baresch e o sábio, Athanasius Kircher (não nomeados no roteiro). O imperador da história dos 600 ducados é Rudolf II; a fonte diz que é relato de segunda mão, não verificado.
 - Algumas plantas foram identificadas com razoável confiança (amor-perfeito, avenca); por isso o roteiro diz "em sua maioria".
-- O manuscrito é de domínio público e há digitalização da Beinecke Library (MS 408); se for usar páginas reais, conferir a licença das imagens.
+- Imagens: pode usar o material original (capturas, fotos, logos, personagens) sob fair use, decisão do Gian em 02/11/2026; creditar a fonte na descrição.

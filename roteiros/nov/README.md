@@ -2,7 +2,7 @@
 
 Um arquivo por roteiro: `AAAA-MM-DD_HHMM_categoria_tema.md`.
 
-**Regras:** sem CTA; a primeira frase é um gancho forte de cerca de 2 segundos, que gera curiosidade; mistério em vídeo único de 1 a 3 minutos; ciência e tecnologia com cerca de 150 a 170 palavras; marcações de entonação entre colchetes; só fatos sustentados pelas fontes de cada arquivo.
+**Regras:** sem CTA; a primeira frase é um gancho forte de cerca de 2 segundos, que gera curiosidade; mistério em vídeo único de 1 a 3 minutos; ciência e tecnologia com cerca de 150 a 170 palavras; marcações de entonação entre colchetes; só fatos sustentados pelas fontes de cada arquivo; imagens originais liberadas sob fair use, com crédito na descrição.
 
 | Data | Hora | Categoria | Roteiro | Palavras |
 |---|---|---|---|---|

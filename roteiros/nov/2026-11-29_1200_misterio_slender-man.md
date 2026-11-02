@@ -21,4 +21,4 @@
 ## Pontos a confirmar
 
 - DECISÃO DO GIAN: o roteiro trata só da criação da lenda e deixa de fora o ataque de 2014 em Waukesha (EUA), em que duas meninas de 12 anos esfaquearam uma colega, que sobreviveu, dizendo-se influenciadas pelo personagem. Confirmar se o tema fica assim, se ganha uma frase sobre o caso ou se é trocado.
-- Não usar as fotos originais do concurso nem cenas do filme ou do jogo (direitos); ilustração própria.
+- Imagens: pode usar o material original (capturas, fotos, logos, personagens) sob fair use, decisão do Gian em 02/11/2026; creditar a fonte na descrição.

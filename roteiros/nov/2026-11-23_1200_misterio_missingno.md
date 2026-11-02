@@ -21,4 +21,4 @@
 ## Pontos a confirmar
 
 - O truque funciona nas versões europeia e norte-americana de Red e Blue. O velhinho fica em Viridian City e a ilha é Cinnabar Island (não citadas por nome no roteiro). Aviso na Nintendo Power de maio de 1999.
-- Não usar sprites, logotipos ou personagens de Pokémon (direitos); só pixels genéricos.
+- Imagens: pode usar o material original (capturas, fotos, logos, personagens) sob fair use, decisão do Gian em 02/11/2026; creditar a fonte na descrição.
