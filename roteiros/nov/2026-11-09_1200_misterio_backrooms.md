@@ -12,7 +12,7 @@
 
 ## Visual
 
-sala amarela recriada no estilo do canal (não usar a foto original sem checar direitos); lâmpadas piscando; balão de fórum anônimo; mapa de "níveis" como planta baixa; câmera de vídeo antiga; claquete; lupa sobre página arquivada; loja em reforma virando pista de carrinho; fundo amarelo-mostarda.
+a foto original da sala amarela (fair use, com crédito); lâmpadas piscando; balão de fórum anônimo; mapa de "níveis" como planta baixa; câmera de vídeo antiga; claquete; lupa sobre página arquivada; loja em reforma virando pista de carrinho; fundo amarelo-mostarda.
 
 ## Fontes
 
