@@ -53,5 +53,38 @@
     "youtube_id": "_4IdqMhbCBM",
     "voz": "André - Voz Animada & Confiante (ElevenLabs, eleven_v4, zxk5LWW71eFBR9Cep81P)",
     "audio": "−14 LUFS (src/lufs.sh)"
+  },
+  "n09m": {
+    "arquivo": "roteiros/nov/2026-11-09_1200_misterio_backrooms.md",
+    "date": "2026-11-09",
+    "time": "12:00",
+    "title": "BACKROOMS: a foto que ASSUSTOU a internet #shorts",
+    "description": "Mistérios da Internet: em 2019, a foto de uma sala amarela vazia virou a lenda dos Backrooms, ganhou uma série no YouTube e um filme da A24. Só em 2024 fãs descobriram a origem: uma loja em reforma em Oshkosh, nos EUA, fotografada em 2002. #misterios #backrooms #internet #creepypasta #curiosidades\n\nImagens e créditos:\n• HobbyTown USA Oshkosh interior under construction (2002) — uso livre com crédito, Wikimedia Commons",
+    "status": "agendado no Studio em 2026-11-08",
+    "youtube_id": "FhIkBWpReGM",
+    "voz": "André - Voz Animada & Confiante (ElevenLabs, eleven_v4, zxk5LWW71eFBR9Cep81P)",
+    "audio": "−14 LUFS (src/lufs.sh)"
+  },
+  "n09c": {
+    "arquivo": "roteiros/nov/2026-11-09_1500_ciencia_lua-horizonte.md",
+    "date": "2026-11-09",
+    "time": "15:00",
+    "title": "POR QUE A LUA parece maior perto do horizonte? #shorts",
+    "description": "A Lua tem o mesmo tamanho aparente no horizonte e no alto do céu: instrumentos e fotos confirmam. Teste com uma pedrinha e o braço esticado. A ilusão é conhecida há séculos e ainda não tem uma explicação única. #ciencia #lua #ilusao #astronomia #curiosidades\n\nImagens e créditos:\n• Harvest moon — Roadcrusher (Wikipedia em inglês), CC BY-SA 3.0, Wikimedia Commons",
+    "status": "agendado no Studio em 2026-11-08",
+    "youtube_id": "Ck9nZCUURCs",
+    "voz": "André - Voz Animada & Confiante (ElevenLabs, eleven_v4, zxk5LWW71eFBR9Cep81P)",
+    "audio": "−14 LUFS (src/lufs.sh)"
+  },
+  "n09t": {
+    "arquivo": "roteiros/nov/2026-11-09_1900_tecnologia_primeiro-email.md",
+    "date": "2026-11-09",
+    "time": "19:00",
+    "title": "O PRIMEIRO E-MAIL da história: quem enviou? #shorts",
+    "description": "Em 1971, Ray Tomlinson, da BBN, mandou o primeiro e-mail entre computadores pela ARPANET, entre duas máquinas lado a lado, e escolheu o @ para separar o usuário do computador. Antes disso, já havia mensagens dentro de um mesmo computador, como no MIT em 1965. #tecnologia #email #internet #historia #curiosidades\n\nImagens e créditos:\n• DEC PDP-10 no Living Computer Museum — Joe Mabel, CC BY-SA 3.0, Wikimedia Commons",
+    "status": "agendado no Studio em 2026-11-08",
+    "youtube_id": "sMV0g93kezE",
+    "voz": "André - Voz Animada & Confiante (ElevenLabs, eleven_v4, zxk5LWW71eFBR9Cep81P)",
+    "audio": "−14 LUFS (src/lufs.sh)"
   }
 }

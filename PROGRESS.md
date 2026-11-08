@@ -97,3 +97,8 @@ Dica de upload: no Studio, o campo de hora às vezes volta para 00:00. Espere 1 
 - Trovão: agendado para 08/11 15:00 (ID _4IdqMhbCBM).
 - Polybius: só ficou pronto depois das 12:00, então foi agendado para 08/11 18:00 (ID 55vTBDfixRM).
 - Arquivos: `src/spec_n08*.py`, `audio/*/n08*`, `videos/n08*.mp4`, `assets/lib/nov08/`.
+
+## 09/11 (agendado em 2026-11-08)
+- 12:00 Backrooms (FhIkBWpReGM) · 15:00 Lua no horizonte (Ck9nZCUURCs) · 19:00 primeiro e-mail (sMV0g93kezE).
+- Fotos de figuras públicas (ex.: Ray Tomlinson) não entram nos vídeos; use máquinas, lugares e objetos.
+- Wikimedia: o helper `wm.py` usa um User-Agent genérico, sem e-mail.
