@@ -91,4 +91,9 @@ Os vídeos de 03 a 07/11 foram reenviados com o áudio passado em `src/lufs.sh` 
 | n07t | 07/11 19:00 | q3aF_uaKE18 | _DZ-VRhxyxg |
 
 Os vídeos de 02/11 (gelo e Discord) ficaram com o áudio original.
-Dica de upload: no Studio, o campo de hora às vezes volta para 00:00. Confira o valor do input por JS antes de clicar em "Programar".
+Dica de upload: no Studio, o campo de hora às vezes volta para 00:00. Espere 1 s depois de confirmar a data e confira o valor do input por JS antes de clicar em "Programar".
+
+## 08/11 (2026-11-08)
+- Trovão: agendado para 08/11 15:00 (ID _4IdqMhbCBM).
+- Polybius: só ficou pronto depois das 12:00, então foi agendado para 08/11 18:00 (ID 55vTBDfixRM).
+- Arquivos: `src/spec_n08*.py`, `audio/*/n08*`, `videos/n08*.mp4`, `assets/lib/nov08/`.

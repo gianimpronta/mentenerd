@@ -31,5 +31,27 @@
     "voz": "André - Voz Animada & Confiante (ElevenLabs, eleven_v4, zxk5LWW71eFBR9Cep81P)",
     "youtube_id": "q3aF_uaKE18",
     "audio": "normalizado -14 LUFS (src/lufs.sh), reenviado em 2026-11-02"
+  },
+  "n08m": {
+    "arquivo": "roteiros/nov/2026-11-08_1200_misterio_polybius.md",
+    "date": "2026-11-08",
+    "time": "18:00",
+    "title": "POLYBIUS: o fliperama que talvez nunca tenha existido #shorts",
+    "description": "Mistérios da Internet: diz a lenda que, em 1981, um fliperama chamado Polybius apareceu em Portland, deixou jogadores doentes e foi recolhido por homens de terno preto. Não há prova de que ele tenha existido, mas a lenda junta pedaços de fatos reais. #misterios #polybius #lendaurbana #games #curiosidades\n\nImagens e créditos:\n• Polybius Arcade 1 cropped — DocAtRS, CC BY-SA 3.0, Wikimedia Commons",
+    "status": "agendado no Studio em 2026-11-08 para 18:00 (o horário das 12:00 já tinha passado quando o vídeo ficou pronto)",
+    "youtube_id": "55vTBDfixRM",
+    "voz": "André - Voz Animada & Confiante (ElevenLabs, eleven_v4, zxk5LWW71eFBR9Cep81P)",
+    "audio": "−14 LUFS (src/lufs.sh)"
+  },
+  "n08c": {
+    "arquivo": "roteiros/nov/2026-11-08_1500_ciencia_trovao.md",
+    "date": "2026-11-08",
+    "time": "15:00",
+    "title": "POR QUE O TROVÃO vem depois do relâmpago? #shorts",
+    "description": "Raio e trovão acontecem juntos, mas a luz chega quase na hora e o som anda cerca de 343 m/s. Conte os segundos entre o relâmpago e o trovão e divida por três: é a distância em km, aproximadamente. O trovão é a onda de choque do ar aquecido pelo raio. #ciencia #trovao #raio #fisica #curiosidades\n\nImagens e créditos:\n• Port and lighthouse overnight storm with lightning in Port-la-Nouvelle — Maxime Raynal, CC BY 2.0, Wikimedia Commons",
+    "status": "agendado no Studio em 2026-11-08",
+    "youtube_id": "_4IdqMhbCBM",
+    "voz": "André - Voz Animada & Confiante (ElevenLabs, eleven_v4, zxk5LWW71eFBR9Cep81P)",
+    "audio": "−14 LUFS (src/lufs.sh)"
   }
 }
