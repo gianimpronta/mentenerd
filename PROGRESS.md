@@ -102,3 +102,9 @@ Dica de upload: no Studio, o campo de hora às vezes volta para 00:00. Espere 1 
 - 12:00 Backrooms (FhIkBWpReGM) · 15:00 Lua no horizonte (Ck9nZCUURCs) · 19:00 primeiro e-mail (sMV0g93kezE).
 - Fotos de figuras públicas (ex.: Ray Tomlinson) não entram nos vídeos; use máquinas, lugares e objetos.
 - Wikimedia: o helper `wm.py` usa um User-Agent genérico, sem e-mail.
+
+## Créditos do ElevenLabs esgotados (2026-11-08)
+- Cota de 40.000 créditos do plano esgotada (sobraram 15). Só a narração de 11/11 19:00 (senha vazou, ID aDy5Geg-x-w) saiu e foi agendada.
+- Falharam, sem cobrança: 10/11 Satoshi e mel; 11/11 Lavender Town e astronauta; 12/11 Ben Drowned e estrelas. Gerar de novo quando os créditos voltarem.
+- Custo médio por narração: mistério ~1.300–1.700 créditos; ciência/tecnologia ~870–950.
+- Imagens já baixadas para esses vídeos: `assets/lib/nov10/` (Bitcoin, mel, ISS, céu estrelado, Game Boy, cartucho N64).

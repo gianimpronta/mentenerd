@@ -86,5 +86,16 @@
     "youtube_id": "sMV0g93kezE",
     "voz": "André - Voz Animada & Confiante (ElevenLabs, eleven_v4, zxk5LWW71eFBR9Cep81P)",
     "audio": "−14 LUFS (src/lufs.sh)"
+  },
+  "n11t": {
+    "arquivo": "roteiros/nov/2026-11-11_1900_tecnologia_senha-vazou.md",
+    "date": "2026-11-11",
+    "time": "19:00",
+    "title": "COMO SABER se sua senha VAZOU #shorts",
+    "description": "Digite seu e-mail em haveibeenpwned.com (criado em 2013 por Troy Hunt) e veja em quais vazamentos conhecidos ele apareceu. Se aparecer, troque a senha desse serviço e de onde você usa a mesma, e ative a verificação em duas etapas. #tecnologia #seguranca #senha #dicas #internet",
+    "status": "agendado no Studio em 2026-11-08",
+    "youtube_id": "aDy5Geg-x-w",
+    "voz": "André - Voz Animada & Confiante (ElevenLabs, eleven_v4, zxk5LWW71eFBR9Cep81P)",
+    "audio": "−14 LUFS (src/lufs.sh)"
   }
 }
